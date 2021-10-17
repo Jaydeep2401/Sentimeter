@@ -44,7 +44,3 @@ def predict_sentiment(review: GetReview):
 
 if __name__ == '__main__':
     uvicorn.run(app, host='127.0.0.1', port=8000) 
-
-# run the app using command:
-# 1. .\mlproj\scripts\activate
-# 2. uvicorn app:app --reload
