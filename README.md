@@ -6,7 +6,6 @@ An app where users can check ratings or write reviews for a movie which are clas
 ### Contents:
 - <b>Notebook</b> - Jupyter Notebook containing data preprocessing, training and evaluating part of the machine learning models.
 - <b>FastAPI</b> - Implementation of API using FastAPI for deploying the saved model. Also contains Preprocessing Class that was used while preprocessing.
-- <b>App</b> - Implementation of a mobile app "Sentimeter" using flutter.
 
 ### Dataset:
 
